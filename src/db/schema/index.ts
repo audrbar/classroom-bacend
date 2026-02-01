@@ -1,2 +1,2 @@
-export * from "./app";
-export * from "./auth";
+export * from "./app.ts";
+export * from "./auth.ts";
